@@ -4,25 +4,25 @@ body {
     background: #777777;
     width: 960px;
     font-size: 18px;
-    margin: 20px;
-    padding: 50px;
+    margin: 10px;
+    padding: 30px;
 }
 Header, Nav, Section, Aside, Footer {
     background: #ebebeb;
     text-align: center;
-    margin: 20px;
-    padding: 50px;
+    margin: 10px;
+    padding: 30px;
 }
 Article {
     color: #ebebeb;
     background: #777777;
-    margin: 20px;
-    padding: 50px;
+    margin: 10px;
+    padding: 30px;
 }
 h1, p {
     color: #777777;
     background: #ebebeb;
-    padding: 50px;
+    padding: 30px;
 }
 section {
     float: left;
@@ -30,8 +30,11 @@ section {
 }
 aside {
     float: right;
-    width: 180px;
-    height: 484.083px;
+    width: 300px;
+    height: 344.083px;
+    margin: 10px;
+    padding: 30px;
+    margin-bottom: 20px;
 }
 footer {
     clear: both;
